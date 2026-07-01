@@ -39,7 +39,7 @@ Har bir dars backend'da aynan kerak bo'ladigan mavzularga urg'u beradi: `dict`/J
 - [ ] Funksiyalar: `def`, `*args`/`**kwargs`, scope, `lambda`
 - [ ] Xatoliklar: `try/except`, `raise`, custom exception
 
-📄 **[lesson01.md](lesson01.md)**
+📄 **[lesson01.md](lesson01/lesson01.md)**
 
 ---
 
@@ -53,7 +53,7 @@ Har bir dars backend'da aynan kerak bo'ladigan mavzularga urg'u beradi: `dict`/J
 - [ ] Fayllar: o'qish/yozish, `with` (context manager)
 - [ ] JSON: saqlash va qayta o'qish ⭐
 
-📄 **[lesson02.md](lesson02.md)**
+📄 **[lesson02.md](lesson02/lesson02.md)**
 
 ---
 
@@ -68,7 +68,7 @@ Har bir dars backend'da aynan kerak bo'ladigan mavzularga urg'u beradi: `dict`/J
 - [ ] Git: `init`/`add`/`commit`, branch, merge
 - [ ] GitHub: `push`/`pull`/`clone`, Pull Request, README/Markdown
 
-📄 **[lesson03.md](lesson03.md)**
+📄 **[lesson03.md](lesson03/lesson03.md)**
 
 ---
 
