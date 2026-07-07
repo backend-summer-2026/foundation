@@ -57,14 +57,15 @@ Har bir dars backend'da aynan kerak bo'ladigan mavzularga urg'u beradi: `dict`/J
 
 ---
 
-### 🔹 Dars 3 — Professional muhit va Git
-> *Loyihani professional boshqarish va portfolio yaratish.*
+### 🔹 Dars 3 — Modul, professional muhit va Git
+> *Kodni modullarga bo'lish, loyihani professional boshqarish va portfolio yaratish.*
 > 📖 Qamrov: Foundation Modul 5, 9
 
+- [ ] Modul va paket: `import`, `from...import`, `as`, `__name__`, `__init__.py` ⭐
+- [ ] Standart kutubxonalar: `os`, `sys`, `datetime`, `random`
 - [ ] Virtual muhit: `venv`, `uv` (init/add/run), `pip`
 - [ ] Dependency: `requirements.txt`, `pyproject.toml`
 - [ ] Konfiguratsiya: `.env`, `.gitignore` ⭐
-- [ ] Standart kutubxonalar: `os`, `sys`, `datetime`, `random`
 - [ ] Git: `init`/`add`/`commit`, branch, merge
 - [ ] GitHub: `push`/`pull`/`clone`, Pull Request, README/Markdown
 
